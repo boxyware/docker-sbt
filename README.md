@@ -15,3 +15,5 @@ After that, just go to the *Scala* project folder and run the alias command:
 ```sh
 sbt
 ```
+
+>This image has set the working directory at ```/app```.
